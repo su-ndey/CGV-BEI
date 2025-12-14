@@ -26,3 +26,7 @@ plt.plot(xcord,ycord,marker="o",linestyle="",color="black")
 plt.grid(True)
 plt.axis('equal')
 plt.show()
+
+
+
+
